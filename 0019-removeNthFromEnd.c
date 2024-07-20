@@ -109,6 +109,8 @@ int main()
     l1 =  push (l1,4);
     l1 =  push (l1,5);
 
+
+
     print(removeNthFromEnd(l1, 2));
 
     return 0;
